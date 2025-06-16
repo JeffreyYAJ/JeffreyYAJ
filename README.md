@@ -16,7 +16,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vitejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,vite,django,flutter)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
