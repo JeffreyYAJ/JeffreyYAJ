@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Hi I'm Jeffrey">
 </p>
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
+  I'm a curious developer passionate about building tools that merge <strong>software, hardware</strong>, and <strong>human experience</strong>.
+  
 ![JeffreyYAJ's Stats](https://github-readme-stats.vercel.app/api?username=<JeffreyYAJ>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vitejs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
