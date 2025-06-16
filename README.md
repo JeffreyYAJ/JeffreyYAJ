@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Hi I'm Jeffrey">
-</p>
+## Hey, I'm Jeffrey!
 
-  I'm a curious developer passionate about building tools that merge <strong>software, hardware</strong>, and <strong>human experience</strong>.
+I'm curious developer passionate about building tools that merge <strong>software, hardware</strong>, and <strong>human experience</strong>.
   
-![JeffreyYAJ's Stats](https://github-readme-stats.vercel.app/api?username=<JeffreyYAJ>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JeffreyYAJ's Stats](https://github-readme-stats.vercel.app/api?username=JeffreyYAJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
