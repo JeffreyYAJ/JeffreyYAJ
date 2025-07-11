@@ -14,7 +14,7 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,c,vite,django,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,vite,django,flutter,flask)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
