@@ -1,9 +1,10 @@
 ## Hey, I'm Jeffrey!
 
-I'm curious developer passionate about building tools that merge <strong>software, hardware</strong>, and <strong>human experience</strong>.
+I'm curious developer passionate about building tools that merge <strong>software, hardware</strong>, <strong>human experience</strong> and <strong>Artificial Intelligence<strong>.
   
+<!-- 
 ![JeffreyYAJ's Stats](https://github-readme-stats.vercel.app/api?username=JeffreyYAJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+-->
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Licence in Computer Science.
@@ -14,16 +15,15 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,c,vite,django,flutter,react,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,vite,django,flutter,react,flask,pytorch)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-  - 🚀 Learning Full Stack Web Development
-  - 🌐 Exploring the ins and outs of React for dynamic front-end experiences.
-  - 🧪 Open to learning and experimenting with AI and embedded systems
-  - 📦 Building server-side applications with Django, Flask.
-  - 📊 Diving into PostgreSQL for efficient and scalable database management.
-  
+  -  Full Stack Web Development
+  -  Exploring the ins and outs of React for dynamic front-end experiences.
+  -  Open to learning and experimenting with AI and embedded systems
+  -  Building server-side applications with Django, Flask.
+  - 
  ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
@@ -32,7 +32,7 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 ## 📬 Let's connect
 Email: jeffreyyaj@gmail.com
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
 
 
 
