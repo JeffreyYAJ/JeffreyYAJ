@@ -5,36 +5,60 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 <!-- 
 ![JeffreyYAJ's Stats](https://github-readme-stats.vercel.app/api?username=JeffreyYAJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 -->
-## 🚀 About Me
+##  About Me
 
-- 🔭 I'm currently pursuing my Licence in Computer Science.
-- 🌱 I’m currently learning deeper hardware communication.
-- 👯 I’m looking to collaborate on any innovative web app.
-
-
+-  I'm currently pursuing my Licence in Computer Science.
+-  I’m currently learning deeper hardware communication.
+-  I’m looking to collaborate on any web app.
+-  Building backend projects to strengthen architecture and API design skills
+-  Experimenting with AI-powered features in practical applications
+-  Exploring system concepts related to Linux, networking, and deployment
+-  Working on personal and academic projects (some experimental, some production-oriented)
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,c,vite,django,flutter,react,flask,pytorch)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+### Front-end tools and languanges
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,ts,electron)](https://skillicons.dev)
 
-  -  Full Stack Web Development
-  -  Exploring the ins and outs of React for dynamic front-end experiences.
-  -  Open to learning and experimenting with AI and embedded systems
-  -  Building server-side applications with Django, Flask.
-  - 
- ## 🏆 Achievements
+### Backend tools and languages
+[![My Skills](https://skillicons.dev/icons?i=django,flask,laravel)](https://skillicons.dev)
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+### Other programming languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,php,flutter,dart)](https://skillicons.dev)
 
+### Deployment
+[![My Skills](https://skillicons.dev/icons?i=docker,render,aws,azure)](https://skillicons.dev)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## 📬 Let's connect
+### Database and ORMs
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma,sqlite,supabase)](https://skillicons.dev)
+
+### API Test and Docs
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+### Design and Graphics
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### Datascience and AI
+[![My Skills](https://skillicons.dev/icons?i=r,pytorch,sklearn)](https://skillicons.dev)
+
+### Project management and Team tools
+![Scrum](https://img.shields.io/badge/Scrum-%230D4B8C.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+---
+
+##  Highlights
+- Hacktoberfest 2023 participant (open-source contributions)
+- Multiple backend and experimental projects available on this profile
+---
+
+## Let's connect
 Email: jeffreyyaj@gmail.com
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
-
-
 
 <!--
 
