@@ -28,7 +28,7 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,php,flutter,dart)](https://skillicons.dev)
 
 ### Deployment
-[![My Skills](https://skillicons.dev/icons?i=docker,render,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,vercel,aws,azure)](https://skillicons.dev)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ### Database and ORMs
