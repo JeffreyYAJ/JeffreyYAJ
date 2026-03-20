@@ -31,6 +31,9 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 [![My Skills](https://skillicons.dev/icons?i=docker,vercel,aws,azure)](https://skillicons.dev)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+#### Devops and package managers
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,npm,pnpm,yarn&theme=dark)](https://skillicons.dev)
+
 ### Database and ORMs
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma,sqlite,supabase)](https://skillicons.dev)
 
