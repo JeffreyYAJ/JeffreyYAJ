@@ -5,16 +5,13 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 <!-- 
 ![JeffreyYAJ's Stats](https://github-readme-stats.vercel.app/api?username=JeffreyYAJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 -->
-##  About Me
+## About Me
 
--  I'm currently pursuing my Master Degree in Computer Science.
--  I’m currently learning deeper hardware communication.
--  I’m looking to collaborate on any web app.
--  Building backend projects to strengthen architecture and API design skills
--  Experimenting with AI-powered features in practical applications
--  Exploring system concepts related to Linux, networking, and deployment
--  Working on personal and academic projects (some experimental, some production-oriented)
-
+-  **Education**: Recently graduated with a **Bachelor's Degree in Computer Science (Specialization: Data Science)**, currently pursuing my **Master's Degree in Computer Science** to deepen my expertise in advanced AI systems.
+-  **Applied AI & Machine Learning**: Dedicated to designing, training, and optimizing **predictive and generative models**, focusing heavily on translating theoretical data science into practical, high-impact solutions.
+-  **AI-Driven SaaS Integration**: Specializing in architecting and embedding **production-ready AI features** into SaaS platforms (e.g., LLM orchestration, automated workflows, and intelligent API endpoints).
+-  **AI Engineering & Systems**: Bridging the gap between software and data by strengthening backend architectures, API designs, Linux-based deployments, and exploring low-level hardware communication for optimized computing.
+-  **Collaboration**: Open to collaborating on innovative web applications, complex AI integrations, or open-source projects where advanced Data Science meets modern software engineering.
 
 ## Tech Stack
 
