@@ -5,13 +5,15 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 <!-- 
 ![JeffreyYAJ's Stats](https://github-readme-stats.vercel.app/api?username=JeffreyYAJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 -->
-## About Me
+## 🚀 About Me
 
--  **Education**: Recently graduated with a **Bachelor's Degree in Computer Science (Specialization: Data Science)**.
--  **Applied AI & Machine Learning**: Dedicated to designing, training, and optimizing **predictive and generative models**, focusing heavily on translating theoretical data science into practical, high-impact solutions.
--  **AI-Driven SaaS Integration**: Specializing in architecting and embedding **production-ready AI features** into SaaS platforms (e.g., LLM orchestration, automated workflows, and intelligent API endpoints).
--  **AI Engineering & Systems**: Bridging the gap between software and data by strengthening backend architectures, API designs, Linux-based deployments, and exploring low-level hardware communication for optimized computing.
--  **Collaboration**: Open to collaborating on innovative web applications, AI integrations, or open-source projects where advanced Data Science meets modern software engineering.
+- **Education**: Recently graduated with a **Bachelor's Degree in Computer Science (Specialization: Data Science)**.
+- **Computer Vision & Edge AI**: Designing and deploying robust **Object Detection** and **Instance Segmentation** pipelines. Passionate about bringing these models to the edge (**Embedded AI**) for real-time inference in resource-constrained environments.
+- **AI-Driven SaaS & Distributed Systems**: Specializing in architecting **scalable distributed systems** and embedding production-ready AI capabilities into SaaS platforms (automated workflows, heavy data processing, and high-availability intelligent endpoints).
+- **Industrial Applications & Critical Infrastructure**: Focused on engineering practical solutions for **critical infrastructure surveillance** (security, anomaly detection, automation) and ensuring end-to-end **traceability in industrial logistics**.
+- **Systems & Hardware Engineering**: Bridging the gap between software, AI, and physical infrastructure by refining backend architectures, understanding low-level hardware communication, and optimizing Linux environments.
+- **Collaboration**: Open to collaborating on innovative computer vision systems, distributed backend architectures, or complex industrial AI integrations.
+
 
 ## Tech Stack
 
