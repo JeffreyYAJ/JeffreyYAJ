@@ -7,11 +7,11 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 -->
 ## About Me
 
--  **Education**: Recently graduated with a **Bachelor's Degree in Computer Science (Specialization: Data Science)**, currently pursuing my **Master's Degree in Computer Science** to deepen my expertise in advanced AI systems.
+-  **Education**: Recently graduated with a **Bachelor's Degree in Computer Science (Specialization: Data Science)**.
 -  **Applied AI & Machine Learning**: Dedicated to designing, training, and optimizing **predictive and generative models**, focusing heavily on translating theoretical data science into practical, high-impact solutions.
 -  **AI-Driven SaaS Integration**: Specializing in architecting and embedding **production-ready AI features** into SaaS platforms (e.g., LLM orchestration, automated workflows, and intelligent API endpoints).
 -  **AI Engineering & Systems**: Bridging the gap between software and data by strengthening backend architectures, API designs, Linux-based deployments, and exploring low-level hardware communication for optimized computing.
--  **Collaboration**: Open to collaborating on innovative web applications, complex AI integrations, or open-source projects where advanced Data Science meets modern software engineering.
+-  **Collaboration**: Open to collaborating on innovative web applications, AI integrations, or open-source projects where advanced Data Science meets modern software engineering.
 
 ## Tech Stack
 
