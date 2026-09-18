@@ -7,7 +7,7 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 -->
 ##  About Me
 
--  I'm currently pursuing my Licence in Computer Science.
+-  I'm currently pursuing my Master Degree in Computer Science.
 -  I’m currently learning deeper hardware communication.
 -  I’m looking to collaborate on any web app.
 -  Building backend projects to strengthen architecture and API design skills
