@@ -18,7 +18,7 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 
 ## Tech Stack
 
-### Front-end tools and languanges
+### Front-end tools and languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,ts,electron)](https://skillicons.dev)
 
 ### Backend tools and languages
