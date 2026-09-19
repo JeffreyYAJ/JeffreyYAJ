@@ -5,7 +5,7 @@ I'm curious developer passionate about building tools that merge <strong>softwar
 <!-- 
 ![JeffreyYAJ's Stats](https://github-readme-stats.vercel.app/api?username=JeffreyYAJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 -->
-## 🚀 About Me
+## About Me
 
 - **Education**: Recently graduated with a **Bachelor's Degree in Computer Science (Specialization: Data Science)**.
 - **Computer Vision & Edge AI**: Designing and deploying robust **Object Detection** and **Instance Segmentation** pipelines. Passionate about bringing these models to the edge (**Embedded AI**) for real-time inference in resource-constrained environments.
